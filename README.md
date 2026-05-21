@@ -1,4 +1,4 @@
-# InfraGuard
+# SecureOpe-Validator
 
 Lightweight Continuous Security Validation Platform for Infrastructure & Server Security Monitoring
 
